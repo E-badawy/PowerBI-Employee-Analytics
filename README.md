@@ -75,20 +75,11 @@ The dataset used contains columns such as:
 
 ---
 
-### 🎥 Video Demo (Optional)
-
-Embed a clickable thumbnail that links to your recorded walkthrough (hosted on YouTube or Loom):
-
-```markdown
-[![Watch the demo](assets/screenshots/dashboard_thumbnail.png)](https://youtu.be/your-demo-link)
-```
-
----
 
 ---
 
 ## 🔗 Related Project
-**[Excel VBA Inventory Automation System](https://github.com/your-username/excel-inventory-automation-vba)**
+**[Excel VBA Inventory Automation System](https://github.com/E-badawy/Excel-Employee-Search-VBA)**
 
 ---
 
