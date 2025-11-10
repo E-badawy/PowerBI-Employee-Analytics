@@ -1,21 +1,20 @@
 
-# 📊 Power BI Inventory Dashboard
+# 📊 Power BI HR Employee Analytics Dashboard
 
 ## 🏷️ Project Title
-**Inventory Performance and Stock Insights Dashboard**
+**Employee Performance and Cost Insights Dashboard**
 
 ---
 
 ## 🧠 Overview
-This Power BI dashboard provides **interactive visual insights** into inventory management — tracking stock performance, supplier efficiency, and sales analytics.  
+This Power BI dashboard provides **interactive visual insights** into the employee management — tracking performance, efficiency, and analytics.  
 It complements the **Excel VBA Search Automation System**, transforming operational data into strategic business intelligence.
 
 ---
 
 ## 🎯 Objectives
-- Visualize inventory trends and stock distribution.
-- Track supplier performance metrics and reorder levels.
-- Monitor sales and restocking trends over time.
+- Visualize performance trends and demographic distribution.
+- Track departmental performance metrics and leadership metrics.
 - Automate data updates from Excel (linked with VBA system).
 
 ---
@@ -25,9 +24,9 @@ The dataset used contains columns such as:
 
 | Column Name | Description |
 |--------------|--------------|
-| Item ID | Unique identifier for each product |
-| Product Name | Name of the item in stock |
-| Category | Product classification |
+| employee_id | employee_name |
+| city | Ndepartment |
+| Category | Position |
 | Quantity | Number of items available |
 | Unit Price | Cost per item |
 | Supplier | Vendor providing the product |
@@ -39,11 +38,11 @@ The dataset used contains columns such as:
 ## 📈 Dashboard Pages & Features
 
 ### 1️⃣ Overview Page
-- Total inventory value, quantity, and category breakdown.  
-- KPIs: stock levels, reorder alerts, and supplier count.
+- employee_id, employee_name, and demographic breakdown.  
+- 9000 rows of data entries.
 
-### 2️⃣ Category & Sales Insights
-- Visualize sales performance by product type.  
+### 2️⃣ performance & Insights
+- Visualize performance by categories type.  
 - Detect high-performing vs low-performing categories.
 
 
