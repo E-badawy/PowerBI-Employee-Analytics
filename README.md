@@ -8,7 +8,7 @@
 
 ## 🧠 Overview
 This Power BI dashboard provides **interactive visual insights** into inventory management — tracking stock performance, supplier efficiency, and sales analytics.  
-It complements the **Excel VBA Inventory Automation System**, transforming operational data into strategic business intelligence.
+It complements the **Excel VBA Search Automation System**, transforming operational data into strategic business intelligence.
 
 ---
 
@@ -42,17 +42,10 @@ The dataset used contains columns such as:
 - Total inventory value, quantity, and category breakdown.  
 - KPIs: stock levels, reorder alerts, and supplier count.
 
-### 2️⃣ Supplier Analysis
-- Bar and donut charts for supplier efficiency.  
-- Delivery timeliness and supply frequency analytics.
-
-### 3️⃣ Category & Sales Insights
+### 2️⃣ Category & Sales Insights
 - Visualize sales performance by product type.  
 - Detect high-performing vs low-performing categories.
 
-### 4️⃣ Time-Based Trends
-- Trend lines for stock, restock, and sales activity.  
-- Filters by category, supplier, and date range.
 
 ---
 
@@ -73,14 +66,12 @@ The dataset used contains columns such as:
 
 ---
 
-## 🖼️ Embedding Screenshots or Demos
+## 🖼️ Embedding Screenshots & Demos
 
-You can include dashboard visuals using Markdown:
 
-```markdown
-![Dashboard Overview](assets/screenshots/dashboard_overview.png)
-![Supplier Insights](assets/screenshots/supplier_insights.png)
-```
+
+![Dashboard Overview](dashboard1.png)
+![Dashboard Overview 2](dashboard2.png)
 
 ---
 
@@ -94,22 +85,6 @@ Embed a clickable thumbnail that links to your recorded walkthrough (hosted on Y
 
 ---
 
-## 📦 Folder Structure
-```
-powerbi-inventory-dashboard/
-│
-├── data/
-│   └── inventory_data.xlsx
-│
-├── assets/
-│   └── screenshots/
-│       ├── dashboard_overview.png
-│       └── supplier_insights.png
-│
-├── Inventory_Dashboard.pbix
-└── README.md
-```
-
 ---
 
 ## 🔗 Related Project
@@ -119,7 +94,7 @@ powerbi-inventory-dashboard/
 
 ## 👨‍💻 Author
 **Badawi Aminu Muhammed**  
-Researcher | Data Analyst | Project Manager  
+Researcher Scientist | Data Analyst | M & E specialist 
 📧 cigma.generalsolutions@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/elameenbadawy)
 
